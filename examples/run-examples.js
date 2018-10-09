@@ -61,7 +61,7 @@ exampleFiles = [
   // 'ex-number-insight-basic.js',
   //  'ex-send-sms.js',
   // 'ex-create-user.js',
-   'ex-get-user.js'
+   'ex-get-user.js',
   //'ex-get-user-conversations.js'
   // 'ex-update-user.js',
   // 'ex-delete-user.js',
@@ -75,6 +75,13 @@ exampleFiles = [
   // 'ex-delete-conversation.js',
   // 'ex-update-conversation.js'
   // 'ex-get-conversations.js'
+  // 'ex-dtmf-to-call.js',
+  // 'ex-get-apps.js',
+  // 'ex-get-calls.js',
+  // 'ex-make-call.js',
+  // 'ex-number-insight-basic.js',
+  // 'ex-send-sms.js',
+  'ex-dispatch.js',
   // 'ex-stream-to-call.js',
   // 'ex-talk-to-call.js'
 ];
